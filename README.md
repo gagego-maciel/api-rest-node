@@ -35,7 +35,7 @@ Este projeto é uma API RESTful desenvolvida com Node.js, TypeScript e Fastify, 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/api-rest-node.git
+   git clone git@github.com:gagego-maciel/api-rest-node.git
    cd api-rest-node
    ```
 
@@ -52,7 +52,7 @@ Este projeto é uma API RESTful desenvolvida com Node.js, TypeScript e Fastify, 
    Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
 
    ```
-   DATABASE_URL=./db/database.sqlite
+   DATABASE_URL=./db/app.db
    PORT=3333
    ```
 
